@@ -185,14 +185,14 @@ pop_raster %>%
                  weight = 500,
                  # degrees = 0,
   ) %>%
-image_annotate("Visualization by: foRhAd with Rayshader(@tylermorganwall) | Data: Kontur Population (Released 2022-06-30)",
-               gravity = "southwest",
-               location = "+20+20",
-               color = alpha(text_color, .6),
-               font = "FuturaBT-Medium",
-               size = 20,
-               # degrees = 0,
-) %>%
+  image_annotate("Visualization by: foRhAd with Rayshader(@tylermorganwall) | Data: Kontur Population (Released 2022-06-30)",
+                 gravity = "southwest",
+                 location = "+20+20",
+                 color = alpha(text_color, .6),
+                 font = "FuturaBT-Medium",
+                 size = 20,
+                 # degrees = 0,
+  ) %>%
   image_write("Plot/final_plot_edited.png", format = "png", quality = 100)
 
 
