@@ -65,4 +65,7 @@ Credit to [**Spencer Schien**](https://github.com/Pecners) for his insightful vi
 ![BD Map](https://github.com/forhad-ds/Bangladesh-Population-Density/blob/master/Plot/final_plot_edited.png)
 
 ## Dhaka Division
-![BD Map](https://github.com/forhad-ds/Bangladesh-Population-Density/blob/master/Plot/final_plot_edited_dhaka_div.png)
+![Dhaka_Div Map](https://github.com/forhad-ds/Bangladesh-Population-Density/blob/master/Plot/final_plot_edited_dhaka_div.png)
+
+## Dhaka District
+![Dhaka_District Map](https://github.com/forhad-ds/Bangladesh-Population-Density/blob/master/Plot/final_plot_edited_dhaka.png)
