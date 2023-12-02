@@ -63,3 +63,6 @@ Credit to [**Spencer Schien**](https://github.com/Pecners) for his insightful vi
 ### 3D visualization of Bangladesh Population Density using Rayshader
 
 ![BD Map](https://github.com/forhad-ds/Bangladesh-Population-Density/blob/master/Plot/final_plot_edited.png)
+
+## Dhaka Division
+![BD Map](https://github.com/forhad-ds/Bangladesh-Population-Density/blob/master/Plot/final_plot_edited_dhaka_div.png)
